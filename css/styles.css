@@ -1,0 +1,52 @@
+@import url(https://fonts.googleapis.com/css?family=Voltaire);
+head{
+	display: none;
+	
+}
+ header{
+ 	font-size: 40px;
+ 	background-color:#C5253F;
+ }
+
+body{
+
+     text-align: right;
+     width: 50%;
+     background-color: #0BAEC0;
+     font-size: 25px;
+     font-family:'Voltaire', sans-serif;
+     padding: 20px;
+}
+
+.page-wrapper{
+     width: 760px;
+      text-align: center;
+  }
+#zen-preamble{
+  display: block;;
+     background-color: #607F8B;
+}
+#zen-supporting {
+     float: left;
+     
+     display: block;;
+     background-color: #E5D8AA;
+}
+#zen-summary{
+	display: block;
+    font-family:monospace;
+    background-color: #DBE4DE;
+    margin: 70px;
+    margin-top: -60px;
+	}
+	h1{
+		font-family:impact;
+		text-align: left;
+		color: #092E3C;
+	}
+	h2{
+
+		text-align: left;
+		color: #092E3C;
+		margin-top: -30px;
+	}
