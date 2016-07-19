@@ -12,10 +12,11 @@ body{
 
      text-align: right;
      width: 50%;
-     background-color: #0BAEC0;
+     
      font-size: 25px;
      font-family:'Voltaire', sans-serif;
      padding: 20px;
+     background-image: url(cielo.jpg);
 }
 
 .page-wrapper{
